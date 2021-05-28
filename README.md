@@ -1,8 +1,9 @@
-# todo-app
+# todos-vue3
 
 ## Project setup
 ```
-yarn install
+ yarn install
+ 
 ```
 
 ### Compiles and hot-reloads for development
@@ -20,5 +21,9 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Vue 3 Todo app 
+
+First example of a very simple todo app with composition API.
+TODO: 
+* unit test
+* use TS
