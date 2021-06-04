@@ -27,3 +27,5 @@ First example of a very simple todo app with composition API.
 TODO: 
 * unit test
 * use TS
+
+Deployed to https://60ba437ad332b55ea94e684d--stupefied-heyrovsky-3a2aa9.netlify.app/
